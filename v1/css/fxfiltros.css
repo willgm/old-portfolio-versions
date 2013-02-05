@@ -1,0 +1,6 @@
+.filtro:hover {
+	opacity:0.8;    /* filtro alpha para Mozilla - valores de 0 (transparente) até 1.0 (opaco) */
+}
+.filtro {
+	opacity:0.5;    /* filtro alpha para Mozilla - valores de 0 (transparente) até 1.0 (opaco) */
+}

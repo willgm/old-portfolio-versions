@@ -1,0 +1,8 @@
+.filtro2 {
+	filter:Alpha(opacity=80);
+	/* filtro alpha para IE 5.5+ valores de 0(transparente) até 100(opaco) */ 
+}
+.filtro {
+	filter:Alpha(opacity=50);
+	/* filtro alpha para IE 5.5+ valores de 0(transparente) até 100(opaco) */ 
+}
